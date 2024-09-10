@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mqilel.github.io/hkj/sitemap.hkj.gz
